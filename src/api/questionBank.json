@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "questionList": [
+      {
+        "questions": "What is the capital of India",
+        "option1": "New Delhi",
+        "option2": "Chennai",
+        "option3": "Bangalore",
+        "option4": "Mumbai",
+        "Answer": 1
+      },
+      {
+        "questions": "Who is the PM of India",
+        "option1": "Mamta Banerjee",
+        "option2": "Rahul Gandhi",
+        "option3": "Narendra Modi",
+        "option4": "Arvind Kejriwaal",
+        "Answer": 3
+      },
+      {
+        "questions": "Who is the CM of Bihar",
+        "option1": "Nitish Kumar",
+        "option2": "Lalu Yadav",
+        "option3": "Tejaswi Yadav",
+        "option4": "Jeetan Ram Manjhi",
+        "Answer": 1
+      },
+      {
+        "questions": "Who is the Home Minister of India",
+        "option1": "Rajnath Singh",
+        "option2": "Amit Shah",
+        "option3": "Mahesh Yadav",
+        "option4": "Jay Shah",
+        "Answer": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "questionList": [
+      {
+        "questions": "Who is the CM of Delhi",
+        "option1": "Yogi",
+        "option2": "Rahul Gandhi",
+        "option3": "Akhilesh Yadav",
+        "option4": "Arvind Kejriwaal",
+        "Answer": 4
+      },
+      {
+        "questions": "Who is the CM of UP",
+        "option1": "Yogi Adityanath",
+        "option2": "Mamta",
+        "option3": "Devendra",
+        "option4": "Ashok Gehlot",
+        "Answer": 1
+      }
+    ]
+  }
+]
